@@ -39,10 +39,10 @@ Community logistics coordinator, **junior developer**, and active Web3 ambassado
 ## 📫 Contact Me
 
 - ✉️ **Gmail**: Olivier Rishi Matabaro
-- 🐦 **Twitter**: [your handle]
-- 💬 **Telegram**: [your handle]
-- 💼 **LinkedIn**: [your link]
-- 🕹 **Discord**: [your handle]
+- 🐦 **Twitter**: ORishimatabaro
+- 💬 **Telegram**: @Olivierrishimatabaro
+- 💼 **LinkedIn**: 
+- 🕹 **Discord**:
 
 ---
 
